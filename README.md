@@ -1,5 +1,8 @@
 # 💫 About Me:
-Senior Front-End Engineer (10+ years) shipping production SaaS/web/mobile with a strong delivery + product mindset. <br><br>Plain_CV_2026<br><br>Currently building an integrated law + accounts SaaS at Full Clarity (React, TypeScript/JS, MUI, custom component libraries, API-backed UI over Azure SQL). <br><br>Plain_CV_2026<br><br>Known for measurable impact: +45% usability/engagement recently, plus prior wins like +40% engagement and +30% satisfaction through UX, accessibility, and performance work. <br><br>Plain_CV_2026<br><br>Studying the next wave of frontend: modern React patterns (SSR/RSC), faster tooling, and practical AI-assisted UX—while keeping fundamentals (testing, maintainability) rock-solid. <br><br>Plain_CV_2026<br><br>Ask me about scalable UI architecture, component systems/design systems, performance tuning, accessibility, and Jest testing—also into video games, D&D, board games, comics, horror movies, and cooking. 
+- Senior Front-End Engineer (10+ years) shipping production SaaS/web/mobile with a strong delivery + product mindset.
+- Currently building an integrated law + accounts SaaS at Full Clarity (React, TypeScript/JS, MUI, custom component libraries, API-backed UI over Azure SQL).
+- Known for measurable impact: +45% usability/engagement recently, plus prior wins like +40% engagement and +30% satisfaction through UX, accessibility, and performance work.
+- Studying the next wave of frontend: modern React patterns (SSR/RSC), faster tooling, and practical AI-assisted UX—while keeping fundamentals (testing, maintainability) rock-solid. <br><br>Plain_CV_2026<br><br>Ask me about scalable UI architecture, component systems/design systems, performance tuning, accessibility, and Jest testing—also into video games, D&D, board games, comics, horror movies, and cooking. 
 
 
 ## 🌐 Socials:
