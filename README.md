@@ -1,6 +1,10 @@
-![alt text](https://github.com/clarkfennell/clarkfennell/blob/main/Logo.png "hi. my name is clark fennell.")
+<img src="https://github.com/clarkfennell/clarkfennell/blob/main/Logo.png" width="400">
 
 # :sassy_man: About Me:
+:pen: Name: Clark Fennell
+:older_man: Age: 37
+:libra: Sign: Libra
+:world_map: Location: London, UK
 
 # 💫 Some Facts:
 - Senior Front-End Engineer (10+ years) shipping production SaaS/web/mobile with a strong delivery + product mindset.
