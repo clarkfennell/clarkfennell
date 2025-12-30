@@ -2,8 +2,8 @@
 - Senior Front-End Engineer (10+ years) shipping production SaaS/web/mobile with a strong delivery + product mindset.
 - Currently building an integrated law + accounts SaaS at Full Clarity (React, TypeScript/JS, MUI, custom component libraries, API-backed UI over Azure SQL).
 - Known for measurable impact: +45% usability/engagement recently, plus prior wins like +40% engagement and +30% satisfaction through UX, accessibility, and performance work.
-- Studying the next wave of frontend: modern React patterns (SSR/RSC), faster tooling, and practical AI-assisted UX—while keeping fundamentals (testing, maintainability) rock-solid. <br><br>Plain_CV_2026<br><br>Ask me about scalable UI architecture, component systems/design systems, performance tuning, accessibility, and Jest testing—also into video games, D&D, board games, comics, horror movies, and cooking. 
-
+- Studying the next wave of frontend: modern React patterns (SSR/RSC), faster tooling, and practical AI-assisted UX—while keeping fundamentals (testing, maintainability) rock-solid. 
+- Ask me about scalable UI architecture, component systems/design systems, performance tuning, accessibility, and Jest testing—also into video games, D&D, board games, comics, horror movies, and cooking. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clarkfennell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clark-fennell-5b308672) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/NeonOcelot) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NeonOcelot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clarkfennell@mac.com) 
